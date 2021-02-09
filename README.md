@@ -12,3 +12,11 @@
 
 2021-02-07:
 * Add styles: WeatherApp
+
+2021-02-08:
+* Create base-code: TwitterClone
+* Add: Auth
+
+2021-02-09:
+* Add: simple CRUD
+* Add: picture Upload
