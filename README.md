@@ -20,3 +20,7 @@
 2021-02-09:
 * Add: simple CRUD
 * Add: picture Upload
+
+2020-02-10:
+* Add: profile func
+* Add: Style in TwitterClone
